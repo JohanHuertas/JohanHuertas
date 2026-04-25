@@ -1,10 +1,10 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
-  Johan Daniel Huertas - Ingeniero y analista de datos
+  Johan Huertas - Analista de datos
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 <p>
-I'm a software developer with a strong passion for creating visually appealing and user-friendly websites. 
+Analista de datos e ingeniero apasionado por la automatización y  mejora de procesos a apartir de la interpretación y limpieza de datos. 
 </p>
 
 - 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
