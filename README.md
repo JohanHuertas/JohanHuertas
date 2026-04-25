@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
+<img align="right" src="https://images.unsplash.com/photo-1666875753105-c63a6f3bdc86?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" width="30%">
 <h1>
   Johan Huertas - Analista de datos
   <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lxMmlqNGE4anJoNjd4aXdqemZqc2d3OTZ6dWdjODcwZ3VyNzE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" width="40">
@@ -10,8 +10,7 @@ Analista de datos e ingeniero apasionado por la automatización y  mejora de pro
 - 👨‍💻 Manejo de conjuntos de datos para procesos ETL.
 - 📚 Automatización de labores a partir de Python y librerias especializadas.
 - 🎯 Creación y estructuración de bases de datos para garantizar la calidad de la información.
-  
-- 📫 Social links
+- 💻 Visualización de insights para la toma de desiciones estrategicas. 
 <p>
 	<a href="mailto:abdallahelsawy706@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/abdallah-el-sawy"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
