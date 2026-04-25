@@ -1,15 +1,15 @@
 <img align="right" src="https://raw.githubusercontent.com/mohamedelkashef15/mohamedelkashef15/main/github-profile.png" width="30%">
 <h1>
   Johan Huertas - Analista de datos
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src= "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2lxMmlqNGE4anJoNjd4aXdqemZqc2d3OTZ6dWdjODcwZ3VyNzE0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OJTxHkKwcM5lfi2OnW/giphy.gif" width="40">
 </h1>
 <p>
 Analista de datos e ingeniero apasionado por la automatización y  mejora de procesos a apartir de la interpretación y limpieza de datos. 
 </p>
 
-- 👨‍💻 I’m currently working on web development technologies like PHP & Laravel.
-- 📚 I’m currently learning about Frontend and Backend technologies.
-- 🎯 Future Goals: Learn more web technologies - Create awesome websites.
+- 👨‍💻 Manejo de conjuntos de datos para procesos ETL.
+- 📚 Automatización de labores a partir de Python y librerias especializadas.
+- 🎯 Creación y estructuración de bases de datos para garantizar la calidad de la información.
   
 - 📫 Social links
 <p>
