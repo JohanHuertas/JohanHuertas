@@ -7,9 +7,9 @@
 Analista de datos e ingeniero apasionado por la automatización y  mejora de procesos a apartir de la interpretación y limpieza de datos. 
 </p>
 
-- 👨‍💻 Manejo de conjuntos de datos para procesos ETL.
-- 📚 Automatización de labores a partir de Python y librerias especializadas.
-- 🎯 Creación y estructuración de bases de datos para garantizar la calidad de la información.
+- 🎯 Manejo de conjuntos de datos para procesos ETL.
+- ⚙️Automatización de labores a partir de Python y librerias especializadas.
+- 📚 Creación y estructuración de bases de datos para garantizar la calidad de la información.
 - 💻 Visualización de insights para la toma de desiciones estrategicas.
 
 <p></br>
@@ -20,7 +20,6 @@ Analista de datos e ingeniero apasionado por la automatización y  mejora de pro
 </p>
 
 ### 🛠 Herramientas con las que trabajo
-
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -29,12 +28,16 @@ Analista de datos e ingeniero apasionado por la automatización y  mejora de pro
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)
 
-#### 🔧 Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+#### 🔧 Formación
+</p>
+
+-  Bootcamp en Analisis de datos e inteligencia artificial - BETEK (Ene 2026 - May 2026).
+-  Certificación de IA Developer - IBM (Jul 2025 - Nov 2025).
+-  Certficación en Manejo de bases de datos -  Universidad Austral (Abr 2025 - Jun 2025).
+-  Certificación en Ciencia de datos - Universidad de los Andes (Feb 2025 - May 2025)
+   Certificación en Programación en Python - Universidad de los Andes (Ago 2024 - Mar 2025)
+
+<p></br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
