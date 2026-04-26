@@ -29,9 +29,6 @@ Analista de datos e ingeniero apasionado por la automatización y  mejora de pro
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AutoCAD](https://img.shields.io/badge/AutoCAD-FF0000?style=for-the-badge&logo=autodesk&logoColor=white)
 
-#### 🖥️ Frameworks
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
 #### 🔧 Tools
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
