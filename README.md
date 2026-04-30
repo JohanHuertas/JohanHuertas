@@ -40,8 +40,9 @@ Analista de datos e ingeniero apasionado por la automatización y  mejora de pro
 <p></br>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&hide_progress=true) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdallah-el-sawy&layout=compact)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanHuertas&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8)
+
 <br>
-<a href="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
-    <img src="https://komarev.com/ghpvc/?username=abdallah-el-sawy&style=for-the-badge">
+<a href="https://komarev.com/ghpvc/?username=JohanHuertas&style=for-the-badge">
+    <img src="https://komarev.com/ghpvc/?username=JohanHuertas&style=for-the-badge">
 </a>
